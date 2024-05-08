@@ -33,7 +33,7 @@ const Home = () => {
       </div>
       {/* right Side */}
       <div className='grid grid-cols grid-rows-6 rounded-lg'>
-        <img className='row-span-6 object-cover w-full h-full rounded-lg' src="assets/images/Itstaffing.png" alt='/' />
+        <img className='row-span-6 object-cover w-full h-full rounded-r-lg' src="assets/images/Itstaffing.png" alt='/' />
         
       
       
@@ -44,8 +44,8 @@ const Home = () => {
     </div>
     <div className='w-9/12 m-auto rounded-lg grid lg:grid-cols-2 gap-4 Cardblock mb-6' data-aos="zoom-in">
         {/* right Side */}
-        <div className='grid grid-cols grid-rows-6 rounded-lg'>
-        <img className='row-span-6 object-cover w-full h-full rounded-lg' src="assets/images/itconsulting.png" alt='/' />
+        <div className='grid grid-cols grid-rows-6 rounded-r-lg'>
+        <img className='row-span-6 object-cover w-full h-full rounded-l-lg' src="assets/images/itconsulting.png" alt='/' />
         
       
       
@@ -78,7 +78,7 @@ const Home = () => {
       </div>
       {/* right Side */}
       <div className='grid grid-cols grid-rows-6 rounded-lg'>
-        <img className='row-span-6 object-cover w-full h-full rounded-lg' src="assets/images/projectmanagement.png" alt='/' />
+        <img className='row-span-6 object-cover w-full h-full rounded-r-lg' src="assets/images/projectmanagement.png" alt='/' />
         
       
       

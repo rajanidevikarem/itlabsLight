@@ -21,15 +21,15 @@ const Contact = () => {
        <section className='py-16'>
      
       <div className='px-10 lg:px-28 leading-relaxed' data-aos='fade-right'>
-        <div className='w-full grid m-auto lg:grid-cols-3 gap-4 py-8  text-white'>
-         <div className='flex flex-col h-full justify-center  py-8 px-4 shadow-md'>
+        <div className='w-full grid m-auto lg:grid-cols-3 gap-4 py-8'>
+         <div className='flex flex-col h-full justify-center  py-8 px-4'>
              
              <div className=''>
               <h1 className='text-2xl font-medium text-center py-4'>Reach Us </h1>
               
              </div>
          </div> 
-         <div className='flex flex-col h-full justify-center border rounded-2xl list-icons py-8 px-4 shadow-md'>
+         <div className='flex flex-col h-full justify-center border rounded-2xl py-8 px-4 shadow-md'>
 
              <div className='py-6 px-2'>
               <p>12410 Milestone Center Dr</p>
@@ -40,7 +40,7 @@ const Contact = () => {
          </div>
        
 
-         <div className='flex flex-col h-full justify-center border rounded-2xl list-icons px-4 py-8 shadow-md'>
+         <div className='flex flex-col h-full justify-center border rounded-2xl  px-4 py-8 shadow-md'>
           
           <div className='py-6 px-2'>
          

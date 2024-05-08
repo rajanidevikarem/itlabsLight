@@ -116,21 +116,21 @@ const About = () => {
       <div className='px-10 lg:px-28 leading-relaxed' data-aos='fade-right'>
         <div className='w-full grid m-auto lg:grid-cols-3 gap-4 py-8  text-[#16111C]'>
          <div className='flex flex-col h-full justify-center border rounded-2xl Cardblock shadow-md'>
-         <img src="assets/images/services/itconsultig.png" alt="healthcare"/>
+         <img src="assets/images/services/itconsultig.png" className='rounded-t-2xl' alt="healthcare"/>
              <div className='py-8 px-4 '>
               <h1 className='text-2xl font-medium text-center'>IT Consulting</h1>
             
              </div>
          </div> 
          <div className='flex flex-col h-full justify-center border rounded-2xl Cardblock shadow-md'>
-         <img src="assets/images/services/software_product.png" alt="healthcare"/>
+         <img src="assets/images/services/software_product.png" className='rounded-t-2xl' alt="healthcare"/>
              <div className='py-8 px-4'>
               <h1 className='text-2xl font-medium text-center'> Software Product Engineering </h1>
             
              </div>
          </div> 
          <div className='flex flex-col h-full justify-center border rounded-2xl Cardblock shadow-md'>
-         <img src="assets/images/services/cloud_infrastrure.png" alt="healthcare"/>
+         <img src="assets/images/services/cloud_infrastrure.png" className='rounded-t-2xl' alt="healthcare"/>
              <div className='py-8 px-4'>
               <h1 className='text-2xl font-medium text-center'>Cloud & Infrastructure</h1>
             
@@ -138,7 +138,7 @@ const About = () => {
          </div> 
 
          <div className='flex flex-col h-full justify-center border rounded-2xl Cardblock shadow-md'>
-         <img src="assets/images/services/intellegent_automation.png" alt="healthcare"/>
+         <img src="assets/images/services/intellegent_automation.png" alt="healthcare" className='rounded-t-2xl'/>
              <div className='py-8 px-4'>
               <h1 className='text-2xl font-medium text-center'>Intelligent Automation</h1>
             
@@ -146,7 +146,7 @@ const About = () => {
          </div> 
    
          <div className='flex flex-col h-full justify-center border rounded-2xl Cardblock shadow-md'>
-         <img src="assets/images/services/enterprise_security.png" alt="healthcare"/>
+         <img src="assets/images/services/enterprise_security.png" alt="healthcare" className='rounded-t-2xl'/>
              <div className='py-8 px-4'>
               <h1 className='text-2xl font-medium text-center'>Enterprise IT Security</h1>
             
