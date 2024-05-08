@@ -1,0 +1,45 @@
+*
+{
+  margin:0;
+  padding:0;
+}
+.itlabs
+{
+  background-color:#ffffff ;
+  color:#16111C !important;
+}
+.active
+{
+  color: #046592;
+  font-weight: 600;
+}
+.Cardblock
+{
+  background-color: #EBF1F4;
+  border:1px solid #BFD9E9;
+}
+.list-icons
+{
+  background-color: #046592;
+  border:1px solid #644091;
+}
+@media (max-width: 448px)
+{
+  .nav-m{
+   color: #ffffff;
+   background-color: #ffffff;
+  
+  }
+  ul.nav-m
+  {
+    text-align: center;
+    padding-top: 2rem;
+  }
+  .icon {
+    color: transparent;
+    text-indent: -9999px;
+    overflow: hidden;
+    padding: 8px;
+  }
+
+}

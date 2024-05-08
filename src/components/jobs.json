@@ -1,0 +1,422 @@
+{
+	"1":{
+        "title": "Software Engineer",
+        "location": "Columbia,MD,US",
+        "text": "ITL-21-SE-54",
+		"Date":"1/21/2022",
+        "description" : ["Perform full life cycle of project architecture implementation using Agile and Waterfall SDLC methodologies.;",
+							"Develop and maintain Splunk Searching and Reporting Modules, Knowledge Objects, Administration, Add-Ons, Dashboards, Clustering, Forwarder Management and Access Controls. ",
+							"Design, code, interface development, debug database and business intelligence applications in various platforms including Splunk DB connect, Oracle and Splunk with AWS.",
+							"Develop and maintain large scale enterprise; report and identify new technologies for enhancing the business intelligence applications with risk assessments and governance in GRC.."
+							
+						],
+						"skills" : {
+                            "education": "Masters – Computer Science.",
+                             "experience":["One (1) year."
+                             ]
+                        }
+    },
+	"2":{
+        "title": "Software Developer",
+        "location": "Columbia,MD,US",
+        "text": "ITL-21-SD-51",
+		"Date":"1/21/2022",
+        "description" : ["Design, code, and maintain highly scalable and reliable enterprise applications using web technologies including JavaScript, jQuery, XML and AJAX.;",
+							"Perform interface development of various software applications using Apex Language, Visualforce Pages, Triggers, Lightning and Developer Console.",
+							"Package and deploy applications for production.",
+							"Develop software components to support data enrichment and transformation in a high traffic transactional data and data warehouse environment.",
+							"Develop and deploy software in an incremental process that is potentially shippable with each process.",
+							"Provide development estimates outlining business and technical risks."
+							
+						],
+						"skills" : {
+                            "education": "Masters – Computer Science or Electrical and Computer Engineering",
+                             "experience":["One (1) year."
+                             ]
+                        }
+    },
+	
+	"3":{
+        "title": "Software Developer",
+        "location": "Columbia,MD,US",
+        "text": "ITL-21-SD-51",
+		"Date":"1/21/2022",
+        "description" : ["Perform application development, testing and debugging using web technologies including HTML5, CSS3, SASS, JavaScript, React JS, Redux, Angular JS, Nodes JS, Require JS, Jest with Enzyme, Jasmine with Karma and Bootstrap. ;",
+							"Review designs created by web designers and clarify questions before developing applications. ",
+							"Write code to implement visual elements of web applications. Develop page layouts and navigations.",
+							"Write code to implement visual elements of web applications. Develop page layouts and navigations.",
+							"Optimize applications to ensure fast loading speeds. Identify and troubleshoot various application issues and coding problems.",
+							"Participate in issue resolving technical meetings with onsite and offshore team. ",
+							"Compose application level code to cooperate the backend APIs. Review software code to meet the framework standards",
+							" Deploy software to testing environments. Modify existing software to correct and improve performance of the applications. ",
+							"Review and modify programs to ensure technical accuracy, security and reliability. Collaborate with team members to consistently improve the functionality and user friendliness of applications."
+						],
+						"skills" : {
+                            "education": "Masters – Computer Science or Electrical and Computer Engineering",
+                             "experience":["One (1) year."
+                             ]
+                        }
+    },
+	"4":{
+        "title": "Software Developers-Java(Java Full Stack)",
+        "location": "Columbia,MD,US",
+        "text": "TP-202201",
+		"Date":"1/21/2022",
+        "description" : ["Extensive experience with (J2EE, J2SE 8) Spring , Spring Boot Micro Services, JPA, Hibernate.;",
+							"Extensive experience in REST and SOAP Webservices Services.",
+							"Excellent knowledge of databases( PostgreSQL ,My SQL).",
+							"Experience in testing tools (JUnit, SOAP UI, Postman).",
+							"Experience in build tools Maven, Gradle.",
+							"Knowledge of modern authorization mechanisms, such as JSON Web Token.",
+							"Experience in web application servers - Tomcat etc.",
+							"Experience in build tools Maven, Gradle.",
+							"Knowledge of modern authorization mechanisms, such as JSON Web Token.",
+							"Experience in web application servers - Tomcat etc.",
+							"Knowledge of Web User Interface Design.",
+							"Understanding of Agile Development methodology SCRUM.",
+							"Understanding of continuous integration - Jenkins and Code versioning tools- Git."
+						],
+						"skills" : {
+                            "education": "Degree in Computer Science, IT or relevant experience.",
+                             "experience":["2+ years of experience in Java development & Angular."
+                             ]
+                        }
+    },
+    "5":{
+        "title": ".NET Full Stack",
+        "location": "Columbia,MD,US",
+        "text": " TP-202202",
+		"Date":"1/21/2022",
+        "description" :  ["Work well in a collaborative environment, mentoring as needed.",
+            "Own and be accountable for projects working with all levels of stakeholders.",
+            
+            "Think analytically to systematically solve problems.",
+			"Possess a high attention to detail.",
+			"Have very strong debugging skills.",
+			"Have a strong aptitude and desire for all things coding."
+        ],
+		"skills" : {
+                            "education": "Degree in Computer Science, IT or relevant experience.",
+                             "experience": ["2+ years of experience in .NET development & Angular."]
+                        }
+    },
+    "6":{
+        "title": "Software Programmer(Data Sciences/Machine Learning )",
+       "location": "Columbia,MD,US",
+        "text": " TP-202203",
+		"Date":"1/21/2022",
+        "description" : ["Work well in a collaborative environment, mentoring as needed.",
+            "Own and be accountable for projects working with all levels of stakeholders.",
+           
+            "Think analytically to systematically solve problems.",
+			"Possess a high attention to detail.",
+			"Have very strong debugging skills.",
+			"Have a strong aptitude and desire for all things coding."
+        ],
+		"skills" : {
+                            "education": "2+ years in IT field.Bachelor’s degree or higher in a technology related field (e.g. Engineering, Computer Science, etc.) required, Master’s degree a plus",
+							      
+                                          
+                             "experience": ["AWS and Cloud skills - Hands on experience.",
+							               "Unix or Java.Snowflake - Work experiences (1+ year experience).",
+										   "In depth experience at SQL / ETL / PLSQL ( 4 years + experience).MDM experience or Data Warehouse.",
+										   "Strong at CI/CD deployment pipelines.Experience executing projects in Agile environments (Kanban and Scrum).Additional Experience ",
+										   "Experience with Metadata management solutions / Data lineage is a plus.Learn New technologies and evaluate new products, participating in Proof of Concepts (POCs) is a plus.",
+										   "Vendor management is a plus,Some QA/Testing experience is a plus.Some Kubernetes / Docker experience is a plus.Strong communication and presentation skills,"
+                        
+                                             ]                }
+        
+    },
+    "7":{
+         "title": "Software Developer (Salesforce)",
+       "location": "Columbia,MD,USColumbia,MD,US",
+        "text": " TP-202204",
+		"Date":"1/21/2022",
+        "description" : ["Work as part of our dynamic Salesforce team throughout the software development life cycle.",  
+            "Collaborate with team members through code review, design, and knowledge sharing.",
+			" Participate in the complete application life cycle from technical design, administrative activities to development, automated testing, and deployment, including data quality.",
+			"Implement critical solutions on the Force platform utilizing Visualforce, Apex, D/HTML, CSS, JavaScript, Aura & Lightning Web Components framework.",
+			"Actively engage in an Agile (Scrum) environment with a focus on iterative and test-driven methodologies.",
+			"Ensure adherence to continuous improvement practices as required to meet quality/time-to-market imperatives.",
+			"Participate in the development of W&D's next-generation Salesforce Lightning platform.",
+			"Communicate issues, risks, and concerns proactively to management."
+        ],
+		"skills" : {
+                            "education": "B.S/B.A. in Computer Science, Information Systems or related field.",
+							             
+                             "experience": ["2+ year experience Salesforce development, primarily with Lightning Framework.",
+							               "Completed 2-3 full life cycle implementations in Salesforce.",
+										   "Additional experience in working with the following Salesforce modules",
+										   "Sales Cloud, Marketing Cloud, Service Cloud.• Appex programming."
+                             ]
+                        }
+        
+    },
+	"8":{
+         "title": "Software Integration Developer (Tibco)",
+       "location": "Columbia,MD,US",
+        "text": " TP-202205",
+		"Date":"1/21/2022",
+        "description" : ["Responsible for developing and supporting enterprise integration applications",  
+            "Responsible for configuring and supporting external vendor data exchanges.Responsible for managing and supporting the infrastructure upon which integration applications and vendor data exchanges run.",
+			" Works with the Integration Support team to proactively identify issues/risks and provide solutions.Works with the Integration Support team to deliver project artifacts such as technical requirements and design documents.",
+			"Performs code reviews and ensures adherence to coding standards.",
+			"Understanding of SOA, ESB, and web services.",
+			"Knowledge of XML data concepts.Experience with building and/or using standard frameworks and integration design patterns.",
+			"Knowledge of capacity, performance and security aspects integrated enterprise applications",
+			"Understanding of application performance tuning techniques.",
+			 "Ability to work with business users and IT technical staff in a team environment.",
+			 "Communicates effectively to stakeholders at all levels of the organization.",
+			 "Exhibits strong interpersonal skills.",
+			 "Skilled in problem analysis and creative approaches to problem solving to provide quality deliverables.",
+			 "Demonstrated ability to take initiative and accountability for achieving results."
+			 
+        ],
+		"skills" : {
+                            "education": "B.S/B.A. in Computer Science, Information Systems or related field.",
+							             
+                             "experience": ["2+ years experience in IT field.",
+							               "Should have hands on in the following TIBCO Business Works, TIBCO EMS,IBM MQ Series, WebSphere Application Server, DB2 Connect,CA APM,Microsoft TFS, HPQC,Java/JMs."
+                             ]
+										  
+                        }
+        
+    },
+	"9":{
+         "title": "Software Programmer (UI)",
+       "location": "Columbia,MD,US",
+        "text": " TP-202205",
+		"Date":"1/21/2022",
+        "description" : ["Reports to IT Infrastructure Manager. Manage information technology projects based on current business needs as assigned.",  
+            "Serve as liaison between business and technical aspects of projects.",
+			" Provide quality development and support for PC based applications.",
+			"Ability to read and interpret documents, operating and maintenance instructions, and procedure manuals.",
+			"Ability to compose reports, correspondence, and documentation.",
+			"Ability to calculate figures and apply basic concepts of algebra and geometry",
+			"Knowledge of capacity, performance and security aspects integrated enterprise applications",
+			"Superior problem solving and communication skills with the ability to effectively deal with end users, co-workers and subordinates. "
+			
+			 
+        ],
+		"skills" : {
+            
+                            "education": "B.S/B.A. in Computer Science, Information Systems or related field.",
+							             
+                             "experience": "Excellent knowledge of JavaScript, Ajax, HTML, CSS, JQuery, AngularJS, Webkit, and Git."
+							               
+										  
+                        }
+        
+    },
+	"10":{
+         "title": "Business Analyst",
+       "location": "Columbia,MD,US",
+        "text": " TP-202206",
+		"Date":"1/21/2022",
+        "description" : ["Reporting to the Chief Revenue Officer, the duties and responsibilities of the BA include:",  
+            "Elicits, analyzes, specifies, and validates the business needs of stakeholders, customers, or end users.",
+			" Collaborates with project sponsors to determine project scope and vision.",
+			"Conducts interviews to gather customer requirements via demos, surveys, site visits or remote sessions, workflow storyboards, use cases, scenarios, and other methods.",
+			"Discovers, organizes, and clarifies business needs and reviews/produces specifications for changes and new features or applications.",
+			"Communicates, translates, and simplifies conceptual business requirements into functional requirements to make them consumable by the development and QA teams.",
+			"Research, review, and analyze the effectiveness and efficiency of existing requirements-gathering processes, then develops strategies for enhancing or further leveraging these processes.",
+			"Devises a system and streamlines processes to assimilate and aggregate requirements and acceptance criteria into a comprehensive common library of documentation that can be accessed by all relevant teams.",
+			"Maintains the common library of requirements and acceptance criteria documentation on an ongoing basis as changes are implemented.",
+			"Generates and documents applicable scenarios for the technology functionality testing team.",
+			"Participates in the selection of any requirements documentation software solutions that the organization may opt to use.",
+			"Analyzes and verifies requirements for completeness, consistency, comprehensibility, feasibility, and conformity to standards.",
+			"Develops and utilizes standard templates to accurately and concisely write requirements specifications.",
+			"Assists with the interpretation of customer requirements into feasible options and communicating these back to the business stakeholders.",
+			"Manages and tracks the status of requirements throughout the project lifecycle; enforce and redefine as necessary.",
+			"Collaborates with team members throughout the Software Development Life Cycle process for requirements gathering, feedback on proposed designs and models, and user acceptance testing.",
+			"Use best practice risk management, anticipates, and assess risks and create mitigation plans."
+			
+			 
+        ],
+		"skills" : {
+                            "education": "College or university degree in the field of business administration, finance, or information systems",
+							             
+                             "experience": ["2+ years related work experience in the SAAS software development space",
+							               "Experience in writing acceptance criteria in Gherkin in User Stories.",
+										   "Proven experience with business and technical requirements analysis, elicitation, modeling, verification, and methodology development",
+										   "Experience working in a team-oriented, collaborative, Agile/SCRUM environment.",
+										   "Experience with change tracking software such as Azure DevOps and documentation software platforms."
+                             ]
+										  
+                        }
+        
+    },
+	"11":{
+         "title": "Software Engineer (AWS DevOps/Infrastructure)",
+       "location": "Columbia,MD,US",
+        "text": " TP-202207",
+		"Date":"1/21/2022",
+        "description" : ["You are expected to be a subject matter expert on AWS services, tools and best practices. You will answer questions on various cloud-native technologies and AWS services, and you will provide recommendations on what service to use and when. As such, you should have extensive hands-on experience with the varied AWS services, their limitations and alternate (non-AWS) solutions that might serve better in particular situations.",  
+            "CI/CD : The role requires deep involvement in continuous delivery automation, and the integration of cloud-native services to create fully functioning, cohesive delivery pipelines. Your set of skills should include tools and systems like:",
+			" CI/CD suites such as Jenkins, CircleCI, Travis CI or GitLab CI .",
+			"Conducts interviews to gather customer requirements via demos, surveys, site visits or remote sessions, workflow storyboards, use cases, scenarios, and other methods.",
+			"Source control management such as GitHub, GitLab, BitBucket.",
+			"AWS build tools including: AWS CodeCommit, AWS CodeBuild, AWS CodeBuild, AWS CodePipeline.",
+			"Observability : You will ensure that an application and the systems it runs on implement appropriate monitoring, logging and alerting solutions. Your experience should include:Slack, DataDog",
+			"Amazon CloudWatch, AWS CloudTrail, AWS X-Ray",
+			"Amazon SNS, Nagios",
+			"Elasticsearch, Kibana",
+			"Infrastructure as Code (IaC) : You will provision cloud infrastructure in an automated manner using tools such as: Terraform, AWS CloudFormation, AWS CDK (Cloud Development Kit).",
+			"Containerization & Orchestration : You must have hands-on experience building containers and automating container orchestration—deployment, management, and scaling, using tools such as: Docker,Kubernetes, Docker Swarm, Amazon ECS/EKS",
+			"RedHat OpenShift",
+			"Pivotal Cloud Foundry",
+			"Database : The role requires working knowledge in setting and querying:",
+			"Relational data stores: PostgresQL, MySQL, Amazon RDS, Amazon Aurora",
+			"NoSQL data stores: MongoDB, AWS DynamoDB",
+			"Data warehouse: Amazon Redshift",
+			"Amazon RDS Proxy",
+			"Automation : In-depth programming experience is required for the implementation of solution POCs and the automation of solution resiliency validation and verification. You should be able to utilize: AWS Lambda, Bash, Python, java.",
+			"Security : The role includes responsibility for technical security implementation, and enforcement of compliance and security guideline. You should have passion for cutting edge cloud services, and deep interest in cybersecurity architecture and information security technologies. Required skills include:",
+			"AWS Identity Access Management (IAM)",
+			"AWS Control Tower",
+			"Identity management, federated security and SSO",
+			"Secrets management: Vault, AWS KMS",
+			 "Strong written and oral communication skills",
+			 "Ability to communicate effectively with technical an d non-technical staff."
+			 
+        ],
+		"skills" : {
+                            "education": "B.S./B.A. in Computer Science, Information Systems or related field.",
+							             
+                             "experience": ["Minimum of 2+ years’ experience in the design & implementation of distributed applications",
+							               "Minimum of 2+ years’ experience in highly available architecture and solution implementation on AWS and on-prem data centers",
+										   "Minimum of 2+ years’ experience in architecting and delivering AWS solutions",
+										   "Experience working in a team-oriented, collaborative, Agile/SCRUM environment.",
+										   "Minimum of 2+ years’ experience with industry patterns, methodologies, and techniques across the disaster recovery discipline"
+                             ]
+							               
+										  
+                        }
+        
+    },
+	"12":{
+         "title": "Business Analyst",
+       "location": "Columbia,MD,US",
+        "text": " TP-202208",
+		"Date":"1/21/2022",
+        "description" : ["Develop Gap Analysis documentation to define customers' business needs",  
+            "Act as a liaison or subject matter experts (SMEs) by working closely with the client, design/development team and testing team.",
+			" Hands on experience in SDLC, Waterfall, RUP, and Agile methodologies such as Scrum and Kanban.",
+			"Works closely with Product Owners on the release timelines and schedules associated to Shared Systems, HIH and RCs schedule.",
+			"Must participate in various scrum ceremonies such as in backlog grooming, prioritizing/ranking, estimation, daily standup calls, sprint status calls provide velocity reports, etc..",
+			"Good participator in various scrum ceremonies such as grooming, prioritizing/ranking, estimation, validate and certify, daily standup calls, track status, provide velocity reports, etc.",
+			"Translates Change Requests or Business requirements to detailed user, functional, and systems requirements, using waterfall and agile methodology.",
+			"Responsible for creating/updating documents required as part of an agile system development lifecycle including user stories, detailed functional specifications, technical design input, process documents (such as SOP's, guidelines, and validation master plans), etc.",
+			"Facilitate different requirement gathering sessions, such as Joint Application Development (JAD) sessions, design, peer review and demo sessions to generate uses cases",
+			"Experience in any EDI transaction such as X12 278, 275, 834, 835 and 837 preferred.",
+			"Experience using management tools such as Confluence, SNOW, JIRA, Remedy, HP ALM etc.",
+			"Experience using any API Tools and ability to understand XML or JSON files.",
+			"Experience in creating mockups and wireframes to convert and display data in the form of reports and making them 508 compliant.",
+			"Knowledge with any DB Tools and minimum hands experience on querying the database.",
+			"Experience in manual, automation, integration, UAT and 508 compliance testing using any API tools.",
+			"Participate and educate end user during the UAT and Production phase.",
+			"Document detailed meeting minutes, design related questions, solutions, and decisions during the Requirements working and JAD sessions.",
+			"Be and expert in documenting FSD, ICD, RTM, Implementation and Companion Guides for every release and getting them peer reviewed and signoffs.",
+			"Must have a go to attitude and capable to switch roles, by wearing a Scrum Master or Tester hats on needs basis."
+			
+			 
+        ],
+		"skills" : {
+                            "education": "Bachelor's degree in Computer Science or Information Technology or comparable experience SCRUM master certification or the equivalentHealth Care Industry or CMS experience is PREFERREDExperience in any EDI transaction is PREFERREDExperience with Webservices tools such as SOAP UI, REST API etc.Experience with any 508 Tools and conceptsWorks well as a team member in a high-stress, often time sensitive environment.",
+							             
+                             "experience": ["Minimum three (5) years of proven experience in requirements capture, management and analysis activities along all phases of the software development life cycle",
+							               "Minimum three (3) years of proven experience in (I) developing “as is”, “to be” and context diagrams, (II) translating high level business requirements into detailed use cases and flow diagrams (III) developing detailed system and functional requirements, and functional specifications documents.",
+										   "Proven experience working on backend or system software development projects, using the agile methodology.Proven experience in Waterfall, RUP, Iterative and Agile methodologies.",
+										   "Excellent communication, managerial and interpersonal skills.",
+										   "Solid oral and written communication skills, with a demonstrated ability to communicate complex technical topics to management and non-technical audiences.",
+										   "Ability to work independently and interact regularly with government and non-government personnel at multiple levels of authority."
+                             ]
+										  
+                        }
+        
+    },
+	"13":{
+         "title": "Software Developer (Pega)",
+       "location": "Columbia,MD,US",
+        "text": " TP-202209",
+		"Date":"1/21/2022",
+        "description" : ["Hands on experience as Business Pega Architect with strong consulting background",  
+            "Hands on experience in leading Pega requirements end to end.",
+			" CBA / CMBB certification from Pegasystems.Experience on multiple Pega applications/ frameworks.Ability to plan and conduct DCO workshops with customer stakeholders",
+			"Ability to prepare functional use cases and other requirement artifacts",
+			"Ability to conduct Show and Tell sessions with business users.Experience in Manufacturing domain desirable."
+			
+			
+			 
+        ],
+		"skills" : {
+                            "education": " 2+ years experience in IT field.",
+                             "experience": ["Strong Communication skills to translate business requirements into system features and transfer knowledge to Development QA teams."
+							               
+                             ]
+										  
+                        }
+        
+    },
+	"14":{
+         "title": "Software Developer (Mulesoft)",
+       "location": "Columbia,MD,US",
+        "text": " TP-2022010",
+		"Date":"1/21/2022",
+        "description" : ["Expertise with at least one Object Oriented programming language like Java, Go, Python, Node.js, C++ and bash",  
+            "Advanced knowledge of cloud-based platforms (AWS, Azure, GCP).Experience at Back End Software Engineering roles, ",
+			"  preferably building code from scratch.Production Experience or deep understanding of Docker (or similar).",
+			"Production Experience or deep understanding of Kubernetes.",
+			"Used Terraform/Cloud Formation for infrastructure automation.",
+			"Understanding security aspects of production environments.",
+			"Worked on cloud platforms that target developers and/or operations; ",
+			"Understanding of Linux and networking, and what it takes to manage a fleet of hosts at scale."
+			
+			 
+        ],
+		"skills" : {
+                            "education": " 2+ years experience in IT field",
+                             "experience": ["Experience building and operationalizing business critical system or platforms with amazing availability",
+							               "Experience with IaaS or PaaS (like AWS, Azure, Google Cloud, PCF, OpenShift, etc)."
+							               
+                             ]
+										  
+                        }
+        
+    },
+	"15":{
+         "title": "Software Programmer (Microsoft Dynamics CRM)",
+       "location": "Columbia,MD,US",
+        "text": " TP-2022011",
+		"Date":"1/21/2022",
+        "description" : ["Design, implement, test and maintain Microsoft Dynamics CRM 365 based solutions.",  
+            "Develop code to integrate Microsoft Dynamics CRM with external third party and proprietary internal systems.",
+			"  Partner with peers to help develop a technology plan supported by CRM.",
+			"Work with technology and other developers to identify challenges on the horizon and supporting constant improvement in an Agile development environment.",
+			"Correctly read and deliver business and technical requirements.",
+			"Estimation: Estimate and deliver projects on schedule..",
+			"Troubleshooting and problem solving: Advanced debugging. Read memory dumps, analyze log files for patterns. Understand common problems (memory leaks, deadlocks, etc.) Use tools to analyze code and look for problems. ",
+			"Governance: Complete all mandatory training and abide by all policies, laws and guidelines.",
+			"Previous experience implementing a custom entity in CRM to meet the requirements of a user story or a specification in Dynamics 365 or Dynamics CRM 2016.",
+										   "Familiarity with complex JavaScript frameworks as they are implemented in CRM.",
+										   "Experience with Service Development: Web APIs, Microservices and Messaging frameworks: RabbitMQ, Azure Service Bus is a plus.Experience with Software as a Service (SaaS) and/or Platform as a Service (PaaS) environments.",
+										   "Prior Experience building integrations where CRM is the target as well as initiating integrations from CRM",
+										   "Should have strong Development experience in .Net Core 2.x and C# programming experience.Ability to perform domain driven design, Microservices and APIs development.",
+										   "Expertise in avoiding common problems of dynamic application load using established techniques such as caching, API design, resource scaling and asynchronous communication patterns",
+										   "Ability to deliver applications built on well designed and reusable components",
+										   "At least 5 years of experience with building enterprise scale applications.Full Stack experience with combination of front-end and strong backend service development experience, with technologies such as React, Angular, C#, SQL Server, Rules Engine etc.Commitment to code quality as demonstrated by the practice of test-driven development, the creation of unit test cases (nUnit) and active participation in code reviews",
+										   "Experience developing with deploying applications on one of the Cloud platforms (Azure, AWS, GCP), preferably Azure cloud experience.Designs applications with simple and well understood dependencies suitable for deployment in a CI/CD environment (Dockers and Kubernetes.Strong object-oriented analysis and design and have applied using any programming languages.",
+							               "Familiarity with the creation and use of NuGet packages, CI/CD Artifacts, and other approaches to simplify and reuse software.Familiarity with Agile methodology.Exposure to expert systems design including the use of rules-based approaches and machine learning."
+			
+			 
+        ],
+		"skills" : {
+                            "education": " 2+ years experience in IT field",
+                             "experience": [" Hands on experience with extending the Microsoft Dynamics 365 platform through configuration as well as code using Microsoft Power Platform, Workflows, Plugins and JavaScript with one or more of the following D365 / Dynamics CRM modules: Sales, Marketing, Customer Service.",
+							                " At least 5 years of experience with building enterprise scale applications.Full Stack experience with combination of front-end and strong backend service development experience, with technologies such as React, Angular, C#, SQL Server, Rules Engine etc.Commitment to code quality as demonstrated by the practice of test-driven development, the creation of unit test cases (nUnit) and active participation in code reviews."
+							               
+                             ]
+                        }
+        
+    }
+}
