@@ -27,7 +27,7 @@ We believe our greatest asset is our team – talented individuals with a passio
 
   </section>
   
-  <section className='lg:py-16 py-8'>
+  <section className='lg:py-16 py-8 bg-[#EBF1F4]'>
   <h1 className='font-medium my-5 mx-auto text-[#16111C] text-2xl lg:text-5xl pt-2 text-center lg:leading-normal'>Life at ITlabs</h1>
   <div className='w-full m-auto px-4 lg:px-28 py-16 grid lg:grid-cols-2 gap-4'>
 {/* left Side */}

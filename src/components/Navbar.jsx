@@ -45,7 +45,7 @@ const Navbar = () => {
         <div className='w-full fixed top-0 left-0 z-20'>
             <div className='p-4 rounded-3xl'>
             <div className='shadow-md md:flex items-center justify-between py-4 
-text-[#16111C] bg-white md:px-28 px-7 z-20 nav-m rounded-2xl'>
+text-[#16111C] bg-white md:px-28 px-7 z-20 nav-m rounded-2xl mx-28'>
                 <div className='font-bold text-2xl cursor-pointer flex items-center font-[inter] text-gray-800'>
                 <Link to="/home" > <img src={logo} alt="logo" className="logo" /></Link>
                 </div>

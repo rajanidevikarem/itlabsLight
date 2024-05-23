@@ -19,10 +19,10 @@ const Home = () => {
        <section className='lg:py-16 py-8 bg-[#EBF1F4]'>
        <h1 className='font-medium my-5 mx-auto text-[#16111C] text-2xl lg:text-5xl pt-2 text-center lg:leading-normal'>Transforming Your IT Landscape</h1>
       <p className='text-center text-[#16111C]  max-w-[960px] mx-auto lg:p-4 p-8'> At ITLABs we provide a comprehensive suite of IT staffing and consulting services to help businesses achieve their goals.</p>
-<div className='mt-12'>
-      <div className='w-9/12 m-auto rounded-lg grid lg:grid-cols-2 gap-4 Cardblock mb-6' data-aos="zoom-in">
+<div className='mt-12 '>
+      <div className='w-9/12 m-auto rounded-lg grid lg:grid-cols-2 gap-4 Cardblock mb-6 bg-white ' data-aos="zoom-in">
   {/* left Side */}
-        <div className='flex flex-col  justify-center text-[#16111C] bg-[#EBF1F4] lg:p-8 p-4'>
+        <div className='flex flex-col  justify-center text-[#16111C]  lg:p-8 p-4'>
         <h3 className='text-2xl lg:text-3xl font-medium py-4 lg:py-2 text-center lg:text-left'>Expert IT Staffing</h3>
        <p className='py-4 lg:py-2 lg:text-left text-center'>We take the time to understand your specific needs and identify top-tier IT professionals who are the perfect match for your projects and culture. Whether you need full-time, temporary, 
         or contract talent, we have a network of skilled individuals across various IT domains.</p>
@@ -42,7 +42,7 @@ const Home = () => {
     
   
     </div>
-    <div className='w-9/12 m-auto rounded-lg grid lg:grid-cols-2 gap-4 Cardblock mb-6' data-aos="zoom-in">
+    <div className='w-9/12 m-auto rounded-lg grid lg:grid-cols-2 gap-4 Cardblock mb-6 bg-white' data-aos="zoom-in">
         {/* right Side */}
         <div className='grid grid-cols grid-rows-6 rounded-r-lg'>
         <img className='row-span-6 object-cover w-full h-full rounded-l-lg' src="assets/images/itconsulting.png" alt='/' />
@@ -66,7 +66,7 @@ const Home = () => {
     
   
     </div>
-    <div className='w-9/12 m-auto rounded-lg grid lg:grid-cols-2 gap-4 Cardblock mb-6 ' data-aos="zoom-in">
+    <div className='w-9/12 m-auto rounded-lg grid lg:grid-cols-2 gap-4 Cardblock mb-6  bg-white' data-aos="zoom-in">
   {/* left Side */}
         <div className='flex flex-col h-full justify-center text-[#16111C] lg:p-8 p-4'>
         <h3 className='text-2xl lg:text-3xl font-medium py-2 text-center lg:text-left'>Seamless Project Management</h3>
