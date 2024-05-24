@@ -157,8 +157,8 @@ const About = () => {
        </div>
        </section>
        <section className='lg:py-16 py-8 bg-[#EBF1F4]'>
-       <h1 className='font-medium lg:my-5 my-3 mx-auto text-[#16111C] text-2xl lg:text-5xl pt-2 text-center lg:leading-normal'>Why Partner with ITLabs</h1>
-      <p className='text-center text-[#16111C] max-w-[960px] mx-auto lg:p-4 p-8'> Our expert consultants and staff deliver customized solutions that prioritize your success. </p>
+       <h1 className='font-medium lg:my-5 my-3 mx-auto text-[#16111C] text-2xl lg:text-5xl pt-2 text-center lg:leading-normal'>Why Choose Us</h1>
+      <p className='text-center text-[#16111C] max-w-[960px] mx-auto lg:p-4 p-8'> We work closely with you to understand your needs, assemble the perfect development team, and tailor our services to your specific project requirements. </p>
        <div className='w-full m-auto px-10 lg:px-28 lg:py-16 py-8 grid lg:grid-cols-2 gap-4'>
   {/* left Side */}
   <div className='grid grid-cols grid-rows-6 border-[#EBF1F4] border-2 rounded-3xl' data-aos="fade-left">
