@@ -19,41 +19,45 @@ const Contact = () => {
      </div>
        </div>
        <section className='py-16'>
+
+
+       <div className='px-10 lg:px-28 leading-relaxed' data-aos='fade-right'>
+        <div className='w-full grid m-auto lg:grid-cols-3 gap-4 py-8  text-[#16111C]'>
+         <div className='flex flex-col h-full justify-center'>
      
-      <div className='px-10 lg:px-28 leading-relaxed' data-aos='fade-right'>
-        <div className='w-full grid m-auto lg:grid-cols-3 gap-4 py-8'>
-         <div className='flex flex-col h-full justify-center  py-8 px-4'>
-             
-             <div className=''>
-              <h1 className='text-2xl font-medium text-center py-4'>Reach Us </h1>
-              
+             <div className='py-8 px-4 '>
+              <h1 className='text-2xl font-medium text-center'>Reach Us</h1>
+            
              </div>
          </div> 
-         <div className='flex flex-col h-full justify-center border rounded-2xl py-8 px-4 shadow-md'>
-
-             <div className='py-6 px-2'>
-              <p>12410 Milestone Center Dr</p>
+         <div className='flex flex-col h-full justify-center border rounded-2xl Cardblock shadow-md'>
+         <img src="assets/images/address1.png" className='rounded-t-2xl' alt="healthcare"/>
+             <div className='py-8 px-4'>
+             <p>12410 Milestone Center Dr</p>
 <p>Suite # 600</p>
 <p>Germantown, MD   20876</p>
-              
+            
              </div>
-         </div>
-       
-
-         <div className='flex flex-col h-full justify-center border rounded-2xl  px-4 py-8 shadow-md'>
-          
-          <div className='py-6 px-2'>
-         
-          <p>12850 Middlebrook Rd</p>
+         </div> 
+         <div className='flex flex-col h-full justify-center border rounded-2xl Cardblock shadow-md'>
+         <img src="assets/images/address2.png" className='rounded-t-2xl' alt="healthcare"/>
+             <div className='py-8 px-4'>
+             <p>12850 Middlebrook Rd</p>
 <p>Suite # 465</p>
 <p>Germantown, MD   20874</p>
-          </div>
-      </div>
- 
- 
- 
+            
+             </div>
+         </div> 
+
+     
+   
+      
        </div>
        </div>
+
+
+     
+      
        </section>
     </div>
   )
