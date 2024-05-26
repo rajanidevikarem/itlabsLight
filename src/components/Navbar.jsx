@@ -6,11 +6,11 @@ import logo from '../images/itlabs_logo.png';
 const Navbar = () => {
     const Links = [
         { name: "Home", link: "/" },
-        { name: "About", link: "/About" },
+        { name: "About Us", link: "/About" },
         { name: "Services", link: "/Services" },
         { name: "Solutions", link: "/Solutions" },
         { name: "Career", link: "/Career" },
-        { name: "Contact", link: "/Contact" },
+        { name: "Contact Us", link: "/Contact" },
 
     ];
 
