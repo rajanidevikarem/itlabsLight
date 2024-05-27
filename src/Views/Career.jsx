@@ -5,7 +5,7 @@ import JobCard from '../components/JobCard';
 const Career = () => {
   return (
     <div className='w-full leading-loose'>
-    <img className="w-full h-[550px] object-cover left-0" src="assets/header/home_header.jpg" alt='Homeheroimage'/>
+    <img className="w-full h-[550px] object-cover left-0" src="assets/header/career_header.png" alt='Homeheroimage'/>
  <div className='bg-black/90 absolute left-0 w-full'/>
 
 <div className='absolute w-full h-[550px] flex flex-col justify-center  text-white top-0 text-center lg:text-left' >
