@@ -148,7 +148,7 @@ const Home = () => {
       </div>
       {/* right Side */}
       <div className='grid grid-cols grid-rows-6' data-aos="fade-left">
-        <img className='row-span-6 object-cover w-full h-full rogitunded-3xl '
+        <img className='row-span-6 object-cover w-full h-full rounded-3xl '
           src="assets/images/Why_Partner.png" alt='/' />
         
       
