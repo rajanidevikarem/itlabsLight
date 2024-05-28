@@ -45,7 +45,7 @@ const Currentopening = () => {
   <section className='lg:py-16 py-8 text-[#16111C] lg:mx-16 mx-1'>
   <div>
         <p className='my-2.5 text-lg py-16 px-10  md:leading-relaxed lg:p-4 p-12 lg:mx-28 mx-0'>
-          At ITLABS INC, we understand the challenges businesses face in today's dynamic technological landscape. That's why we offer a comprehensive suite of IT solutions and staffing services designed to help you optimize your operations, achieve your goals, and gain a competitive edge.
+        ITLabs is searching for talented individuals  to join our dynamic team. We offer the opportunity to collaborate with industry leaders, work on cutting-edge projects, and propel your IT career forward.
         </p>
       </div>
   <div className='text-[#16111C] lg:mx-28 mx-0'>
